@@ -4,7 +4,7 @@ terraform {
 
 variable "subject" {
    type = string
-   default = "tfctl-rc"
+   default = "backend is in s3"
    description = "Subject to hello"
 }
 
